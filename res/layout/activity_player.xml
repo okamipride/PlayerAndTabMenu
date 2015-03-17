@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <SurfaceView 
+        android:id="@+id/surf_player"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <TextView
+        android:id="@+id/txtv_videoName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:focusable="false"
+        android:text="Video Name :From Star"
+        android:textSize="30sp" />
+
+    <com.okamipride.player.MenuTabView
+        android:id="@+id/menulist"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" >
+    </com.okamipride.player.MenuTabView>
+
+</FrameLayout>

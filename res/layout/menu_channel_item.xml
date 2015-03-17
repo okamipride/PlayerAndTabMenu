@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+     android:background="@color/app_default_alpha_color_background">
+    <!--  
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/menu_channel_item_cover"
+        android:layout_width="115dp"
+        android:layout_height="65dp"
+        tools:background="@drawable/ic_default_channel_cover_s"/>
+    -->
+    
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:gravity="center_vertical"
+        android:layout_height="fill_parent">
+
+        <TextView
+            style="@style/MenuFragment.Item.Head"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="12345"
+            android:id="@+id/menu_channel_item_number"/>
+
+        <TextView
+            style="@style/MenuFragment.Item.Body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="娛樂百分百"
+            android:singleLine="true"
+            android:id="@+id/menu_channel_itme_name"/>
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_share_2" />
+
+    </LinearLayout>
+
+</LinearLayout>

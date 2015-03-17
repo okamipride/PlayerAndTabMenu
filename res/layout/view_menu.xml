@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menu_color_background"
+    android:orientation="vertical" >
+
+	 <TextView 
+	     android:id="@+id/txtv_name"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:text="Miii TV"/>"
+	
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/txtv_name"
+	    android:orientation="vertical">
+
+	    <Button
+		     android:id="@+id/button1"
+		     android:layout_width="fill_parent"
+		     android:layout_height="wrap_content"
+		     android:text="Button" />
+	
+		 <Button
+		     android:id="@+id/button2"
+		     android:layout_width="fill_parent"
+		     android:layout_height="wrap_content"
+		     android:text="Button" />
+		
+		 <Button
+		     android:id="@+id/button3"
+		     android:layout_width="fill_parent"
+		     android:layout_height="wrap_content"
+		     android:text="Button" />
+	    
+	</LinearLayout>
+
+ 
+
+ <ExpandableListView
+ android:id="@+id/explistview"
+ android:layout_height="match_parent"
+ android:layout_width="match_parent"
+ android:layout_below="@+id/layout_func"/>   
+ 
+ 
+</RelativeLayout>

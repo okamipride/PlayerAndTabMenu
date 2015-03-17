@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    for phone
+    <dimen name="text_size_xsmall">11sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    -->
+    <dimen name="text_size_sssmall">10sp</dimen>
+    <dimen name="text_size_ssmall">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">38sp</dimen>
+    <dimen name="text_size_xxxlarge">44sp</dimen>
+
+    <dimen name="viewpager_dot">10sp</dimen>
+
+    <dimen name="user_avatar_s_width">30dp</dimen>
+    <dimen name="user_avatar_s_height">30dp</dimen>
+    <dimen name="user_avatar_l_width">113dp</dimen>
+    <dimen name="user_avatar_l_height">113dp</dimen>
+
+    <!-- Login -->
+    <dimen name="login_sidebar_width">450dp</dimen>
+    <dimen name="login_sidebar_height">320dp</dimen>
+    <dimen name="login_sign_width">420dp</dimen>
+    <dimen name="login_sign_height">285dp</dimen>
+    <dimen name="login_sign_tab_margin">8dp</dimen>
+
+    <dimen name="login_warning_mark">20dp</dimen>
+    <dimen name="login_fb_mark">30dp</dimen>
+    <dimen name="login_fb_mark_padding">3dp</dimen>
+    <dimen name="login_sep_margintop">10dp</dimen>
+    <dimen name="login_sep_marginbottom">8dp</dimen>
+
+    <dimen name="button_layout_width">150dp</dimen>
+    <dimen name="button_layout_height">30dp</dimen>
+    <dimen name="grid_view_vertical_space">10dp</dimen>
+    <dimen name="select_interest_layout_margin_top">15dp</dimen>
+    <dimen name="select_interest_layout_margin_bottom">15dp</dimen>
+    <dimen name="select_interest_layout_margin_left">40dp</dimen>
+    <dimen name="select_interest_layout_margin_right">40dp</dimen>
+    <dimen name="select_interest_list_item_layout_width">60dp</dimen>
+    <dimen name="select_interest_list_item_layout_height">35dp</dimen>
+    <dimen name="select_interest_list_item_radius">10dp</dimen>
+    <dimen name="select_interest_button_radius">50dp</dimen>
+    <dimen name="select_interest_view_margin_bottom">10dp</dimen>
+
+    <!-- Content Select -->
+    <dimen name="content_title_topmargin">10dp</dimen>
+    <dimen name="content_list_margin_leftright">40dp</dimen>
+    <dimen name="content_item_width">119dp</dimen>
+    <dimen name="content_item_height">67dp</dimen>
+    <dimen name="content_item_margin">8dp</dimen>
+    <dimen name="content_item_title_margin">4dp</dimen>
+    <dimen name="content_item_title_maxwidth">115dp</dimen>
+    <dimen name="content_item_check_margin">2dp</dimen>
+    <dimen name="content_item_checkmark_width">20dp</dimen>
+    <dimen name="content_item_checkmark_height">20dp</dimen>
+    <dimen name="content_item_checkmark_marginbottom">12dp</dimen>
+
+    <!-- menu -->
+    <dimen name="menu_width">250dp</dimen>
+    <dimen name="menu_left">5dp</dimen>
+
+    <!-- info bar -->
+    <dimen name="info_bar_width">240dp</dimen>
+    <dimen name="info_bar_height">110dp</dimen>
+
+    <!-- slide bar -->
+    <dimen name="slide_bar_width">35dp</dimen>
+
+    <!-- video info bar -->
+    <dimen name="video_info_bar_height">50dp</dimen>
+
+    <!-- video list bar -->
+    <dimen name="video_list_bar_height">125dp</dimen>
+    <dimen name="video_list_item_width">98dp</dimen>
+    <dimen name="video_list_item_height">57dp</dimen>
+
+    <!-- setting -->
+    <dimen name="setting_width">450dp</dimen>
+    <dimen name="setting_layout_marginBottom">5dp</dimen>
+    <dimen name="setting_paddingTop">5dp</dimen>
+    <dimen name="setting_paddingBottom">5dp</dimen>
+
+    <!-- Channel Item -->
+    <dimen name="channel_cover_width">301dp</dimen>
+    <dimen name="channel_cover_height">169dp</dimen>
+    <dimen name="channel_count_margin_top">8dp</dimen>
+    <dimen name="channel_count_margin_right">11dp</dimen>
+    <dimen name="channel_title_margin_top">13dp</dimen>
+    <dimen name="channel_title_margin_bottom">7dp</dimen>
+
+    <!-- Player Controller -->
+    <dimen name="ctrl_btnplay_width">35dp</dimen>
+    <dimen name="ctrl_btnplay_height">35dp</dimen>
+    <dimen name="ctrl_btnlist_width">35dp</dimen>
+    <dimen name="ctrl_btnlist_height">35dp</dimen>
+    <dimen name="ctrl_parent_height">260dp</dimen>
+    <!--
+    <dimen name="ctrl_button_margin_left">37dp</dimen>
+    <dimen name="ctrl_button_margin_right">43dp</dimen>
+    -->
+    <dimen name="ctrl_button_margin_left">23dp</dimen>
+    <dimen name="ctrl_button_margin_right">26dp</dimen>
+
+    <dimen name="ctrl_layout1_margin_button">11dp</dimen>
+    <dimen name="ctrl_layout2_margin_button">16dp</dimen>
+</resources>

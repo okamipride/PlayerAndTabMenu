@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="black">@android:color/background_dark</color>
+    <!-- appliction -->
+    <color name="app_default_color_background">#80449F</color>
+    <color name="app_default_alpha_color_background">#DD80449F</color>
+
+    <color name="app_default_btn_pressed_color">#B48DC7</color>
+
+    <!-- loadin -->
+    <color name="loading_background">#C0000000</color>
+
+    <!-- menu -->
+    <color name="menu_color_background">#4a1e69</color>
+    <color name="menu_control_color_background">#391f4f</color>
+    <drawable name="menu_item_line">#391f4f</drawable>
+    <drawable name="menu_item_hover">#682B93</drawable>
+
+    <!-- Ancionbar -->
+    <color name="actionbar_text">@android:color/white</color>
+
+    <color name="body_text_1">@android:color/black</color>
+    <color name="body_text_1_inverse">@android:color/white</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="select_background">#935CAF</color>
+
+    <color name="viewpager_dot_disable">@android:color/white</color>
+    <color name="viewpager_dot_enable">#7fffffff</color>
+
+    <!-- comment -->
+    <color name="comment_background">#99000000</color>
+    <color name="comment_time">#8b8b8b</color>
+    <color name="comment_line">#949494</color>
+
+    <color name="video_list_bar_background">#88000000</color>
+</resources>
